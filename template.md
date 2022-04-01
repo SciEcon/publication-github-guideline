@@ -15,14 +15,14 @@ The elements that must be included in your main body section:
 
 ![cat](./imgs/cat.jpg)
 
-Image Example 1 [citation number]
+*Figure 1: name [source]*
 
 | Item         | Price | # In stock |
 |--------------|:-----:|-----------:|
 | Juicy Apples |  1.99 |        739 |
 | Bananas      |  1.89 |          6 |
 
-Table Example 1
+*Table 1: name*
 
 ## Conclusion & Discussion
 
