@@ -127,27 +127,6 @@ First, decentralized technology is one of the excellent solutions to the trust p
 
 Along with the introduction of decentralization, many of today’s blockchain technologies were also able to be brought in. One possible improvement is to integrate the NFT system. The integration of NFT will further bring the in-game economic system closer to the real one, further stimulating the market.
 
-
-
-## Relevant Materials
-
-Please note that we don’t include a reference list in our Medium post. If you want to cite a source in your article, please use the in-text citation for it; else if you want to explain something explicitly (e.g., jargon, definitions, etc.), please include them in this relevant material part.
-
-**Example:**
-
-inline:
-
-Lorem ipsum dolor sit amet, consectetur adipiscing [1] elit…
-
-in the relevant list:
-
-[1] adipiscing
-
-Etiam aliquam vel ipsum eu vestibulum. Vestibulum nec dolor quis quam sagittis auctor. Phasellus cursus sit amet nibh quis lacinia. Vestibulum dictum leo dolor
-
-[[name-of-source](https://some.link)]
-
-
 ## About the Authors
 
 ### Xinyu Tian
