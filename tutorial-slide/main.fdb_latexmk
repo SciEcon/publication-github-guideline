@@ -1,13 +1,13 @@
 # Fdb version 3
-["biber main"] 1648801066 "main.bcf" "main.bbl" "main" 1648801118
+["biber main"] 1648801066 "main.bcf" "main.bbl" "main" 1648804127
   "main.bcf" 1648801078 106403 9fc7295428b76c983751c0b3440fd597 "pdflatex"
   "ref.bib" 1648797512 963 4f995a14ed0009e976ee56f6a7e49e5a ""
   (generated)
   "main.blg"
   "main.bbl"
-["pdflatex"] 1648801076 "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.tex" "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.pdf" "main" 1648801118
+["pdflatex"] 1648801076 "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.tex" "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.pdf" "main" 1648804127
   "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.aux" 1648801078 7245 b42ffb4944669a779a396548f3d75f70 ""
-  "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.tex" 1648801087 5336 b669a938566df60e5db9523713131231 ""
+  "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.tex" 1648804125 5336 b669a938566df60e5db9523713131231 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -239,19 +239,19 @@
   "main.nav" 1648801078 3573 f77b534ca15f79e96add59fc67303a1c "pdflatex"
   "main.out" 1648801078 425 4e62858e6864976ad3f873c338b74876 "pdflatex"
   "main.run.xml" 1648801078 2395 1575f6bbc0c6be1b1dbf4e9f7ecaa5c6 "pdflatex"
-  "main.tex" 1648801087 5336 b669a938566df60e5db9523713131231 ""
+  "main.tex" 1648804125 5336 b669a938566df60e5db9523713131231 ""
   "main.toc" 1648801078 421 e398be4dfe7ed3d4a24658eaeb208db7 "pdflatex"
   "main.vrb" 1648801078 44 0b796e199e8f12ffb7bde32d24d46367 "pdflatex"
   (generated)
-  "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.pdf"
-  "main.aux"
   "main.snm"
-  "main.pdf"
-  "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.log"
-  "main.out"
-  "main.log"
   "main.bcf"
-  "main.run.xml"
+  "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.pdf"
   "main.toc"
-  "main.vrb"
   "main.nav"
+  "main.run.xml"
+  "main.out"
+  "main.aux"
+  "main.log"
+  "/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.log"
+  "main.vrb"
+  "main.pdf"
