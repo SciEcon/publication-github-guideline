@@ -13,29 +13,16 @@ The elements that must be included in your main body section:
 1. Figures and tables. Please notice that if you use any source that you don’t have the copyright, you should include the in-text hyperlink for it.
 2. In-text citations by hyperlinks. 
 
-<p align="center" style="margin-left: auto;
-            margin-right: auto;
-            width: auto">
+![cat](./imgs/cat.jpg)
 
-<img src="./imgs/cat.jpg">
-<span>Image Example 1 [citation number]</span>
-
-</p>
-
-<p align="center" style="margin-left: auto;
-            margin-right: auto;
-            width: auto">
+Image Example 1 [citation number]
 
 | Item         | Price | # In stock |
 |--------------|:-----:|-----------:|
 | Juicy Apples |  1.99 |        739 |
 | Bananas      |  1.89 |          6 |
 
-<span>Image Example 1 [citation number]</span>
-
-</p>
-
-
+Table Example 1
 
 ## Conclusion & Discussion
 
