@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.10)  1 APR 2022 16:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.11.10)  1 APR 2022 16:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1042,7 +1042,7 @@ LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inpu
  (/usr/local/texlive/2021/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/mathkerncmss.
 )
-<img/sciecon.png, id=48, 196.23312pt x 170.13562pt>
+<img/sciecon.png, id=49, 196.23312pt x 170.13562pt>
 File: img/sciecon.png Graphic file (type png)
 <use img/sciecon.png>
 Package pdftex.def Info: img/sciecon.png  used on input line 51.
@@ -1064,7 +1064,7 @@ Package pdftex.def Info: img/sciecon.png  used on input line 70.
  [3
 
 ]
-<img/vscode.png, id=195, 1108.14pt x 882.29625pt>
+<img/vscode.png, id=200, 1108.14pt x 882.29625pt>
 File: img/vscode.png Graphic file (type png)
 <use img/vscode.png>
 Package pdftex.def Info: img/vscode.png  used on input line 81.
@@ -1100,32 +1100,53 @@ Package pdftex.def Info: img/sciecon.png  used on input line 123.
  [7
 
 ]
-File: img/sciecon.png Graphic file (type png)
-<use img/sciecon.png>
-Package pdftex.def Info: img/sciecon.png  used on input line 132.
-(pdftex.def)             Requested size: 46.0916pt x 39.9611pt.
- [8
+\openout4 = `main.vrb'.
 
-]
+ (/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.vrb
+<img/file-structure.png, id=374, 142.5325pt x 67.25125pt>
+File: img/file-structure.png Graphic file (type png)
+<use img/file-structure.png>
+Package pdftex.def Info: img/file-structure.png  used on input line 7.
+(pdftex.def)             Requested size: 61.45703pt x 28.99648pt.
+)
 File: img/sciecon.png Graphic file (type png)
 <use img/sciecon.png>
 Package pdftex.def Info: img/sciecon.png  used on input line 142.
 (pdftex.def)             Requested size: 46.0916pt x 39.9611pt.
- [9
+ [8
 
-]
+ </Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/img/file-structure.png>]
+<img/compress.png, id=416, 178.6675pt x 108.405pt>
+File: img/compress.png Graphic file (type png)
+<use img/compress.png>
+Package pdftex.def Info: img/compress.png  used on input line 155.
+(pdftex.def)             Requested size: 92.1879pt x 55.93422pt.
 File: img/sciecon.png Graphic file (type png)
 <use img/sciecon.png>
-Package pdftex.def Info: img/sciecon.png  used on input line 154.
+Package pdftex.def Info: img/sciecon.png  used on input line 155.
+(pdftex.def)             Requested size: 46.0916pt x 39.9611pt.
+ [9
+
+ </Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/img/compress.png>]
+File: img/sciecon.png Graphic file (type png)
+<use img/sciecon.png>
+Package pdftex.def Info: img/sciecon.png  used on input line 165.
 (pdftex.def)             Requested size: 46.0916pt x 39.9611pt.
  [10
 
 ]
 File: img/sciecon.png Graphic file (type png)
 <use img/sciecon.png>
-Package pdftex.def Info: img/sciecon.png  used on input line 164.
+Package pdftex.def Info: img/sciecon.png  used on input line 177.
 (pdftex.def)             Requested size: 46.0916pt x 39.9611pt.
  [11
+
+]
+File: img/sciecon.png Graphic file (type png)
+<use img/sciecon.png>
+Package pdftex.def Info: img/sciecon.png  used on input line 187.
+(pdftex.def)             Requested size: 46.0916pt x 39.9611pt.
+ [12
 
 ]
 \openout4 = `main.vrb'.
@@ -1133,9 +1154,9 @@ Package pdftex.def Info: img/sciecon.png  used on input line 164.
  (/Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.vrb)
 File: img/sciecon.png Graphic file (type png)
 <use img/sciecon.png>
-Package pdftex.def Info: img/sciecon.png  used on input line 169.
+Package pdftex.def Info: img/sciecon.png  used on input line 192.
 (pdftex.def)             Requested size: 46.0916pt x 39.9611pt.
- [12
+ [13
 
 ]
 \tf@nav=\write7
@@ -1155,18 +1176,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29308 strings out of 478994
- 551082 string characters out of 5858183
+ 29326 strings out of 478994
+ 551557 string characters out of 5858183
  1330458 words of memory out of 5000000
- 46213 multiletter control sequences out of 15000+600000
+ 46225 multiletter control sequences out of 15000+600000
  412772 words of font info for 61 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  131i,19n,132p,1129b,1428s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on /Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.pdf (12 pages, 579560 bytes).
+Output written on /Users/crinstaniev/Development/SciEcon/publication-github-guideline/tutorial-slide/main.pdf (13 pages, 628321 bytes).
 PDF statistics:
- 598 PDF objects out of 1000 (max. 8388607)
- 547 compressed objects within 6 object streams
- 33 named destinations out of 1000 (max. 500000)
- 93 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 657 PDF objects out of 1000 (max. 8388607)
+ 600 compressed objects within 6 object streams
+ 35 named destinations out of 1000 (max. 500000)
+ 103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
